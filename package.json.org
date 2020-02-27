@@ -21,7 +21,6 @@
     "hubot-slack-timeline": "^0.2.3"
   },
   "engines": {
-    "node": "12.13.x",
-    "npm":"6.12.0"
+    "node": "0.10.x"
   }
 }
